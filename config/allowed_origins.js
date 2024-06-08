@@ -5,7 +5,8 @@ const origins = [
     'http://127.0.0.1:5173',
     'https://bilkonnekt-frontend-git-test-umutcan00s-projects.vercel.app',
     'https://bilkonnekt-frontend.vercel.app',
-    'https://fine-ruby-moth-wig.cyclic.app'
+    'https://fine-ruby-moth-wig.cyclic.app',
+    'https://bilkonnekt-public-be.onrender.com'
   ]
   
 module.exports = origins
